@@ -206,7 +206,7 @@ If you'd like to improve this project:
 
 ## 👨‍💻 Author
 
-**Abhishek || Faizan**
+**Dnyaneshwar**
 Machine Learning & Data Analytics Enthusiast
 
 📌 Connect on LinkedIn
